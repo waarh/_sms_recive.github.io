@@ -1,1 +1,2 @@
-# _sms_recive
+Модуль для приема СМС для BrowserAutomationStudio
+v. 1.0
